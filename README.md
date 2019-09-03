@@ -1,2 +1,2 @@
 # Pong
-![pong preview](pong.png)
+![pong preview](Pong.png)
